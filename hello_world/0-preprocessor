@@ -1,9 +1,2 @@
 #!/bin/bash
-#include <stdio.h>
-
-int main.c(void) {
-    printf("Hello, World!\n");
-    return 0;
-
-}
-
+gcc -E $CFILE -o c
