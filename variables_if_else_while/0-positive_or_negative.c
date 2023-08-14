@@ -2,7 +2,14 @@
 #include <stdlib.h>
 #include <time.h>
 /* more headers goes there */
-
+/**
+ * main - Entry point of the program
+ *
+ * This program generates a random number, checks whether it's positive,
+ * zero, or negative, and prints the corresponding message.
+ *
+ * Return: Always 0 (Success)
+ */
 /* betty style doc for function main goes there */
 int main(void)
 {
